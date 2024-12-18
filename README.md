@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham1411" alt="soham1411" /></a> </p>
 
-- 🔭 I’m currently working on **Image Based fire detection system**
+- 🔭 I’m currently working on **Face recognization project**
 
 - 🌱 I’m currently learning **JavaScript**
 
