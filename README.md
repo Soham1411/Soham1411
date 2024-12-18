@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-### I'm currently working on AI-ML projects.<br>Learning Tensorflow, opencv, pytorch and a lot more!<br>I love playing cricket and draw during my free time 🙂
+### I'm currently working on AI-ML projects.<br>Learning Tensorflow, opencv, pytorch, javascript and a lot more!<br>I love playing cricket and draw during my free time 🙂
 
 ## Projects:
 
