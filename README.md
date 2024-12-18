@@ -1,32 +1,69 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Soham Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/19674676685931.5c717ec25050d.gif">
+<img src="https://widgetbite.com/stats/Soham1411" alt="watching_count" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham1411&label=Profile%20views&color=0e75b6&style=flat" alt="soham1411" /> </p>
+<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
+<h2 align="center">I am Soham Mondal. Currently pursuing B.TECH in CSE(AI-ML) at Institute of Engineering and Management .</h2></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham1411" alt="soham1411" /></a> </p>
+## 💫 About Me:
 
-- 🔭 I’m currently working on **Face recognization project**
+### I'm currently working on AI-ML projects.<br>Learning Tensorflow, opencv, pytorch and a lot more!<br>I love playing cricket and draw during my free time 🙂
 
-- 🌱 I’m currently learning **JavaScript**
+## Projects:
 
-- 📫 How to reach me **sohammondal400@gmail.com**
+| Project Name                                                                                              | Description                                                |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [Fire Detection Model](https://github.com/Soham1411/Fire_Detection_Model)                                 | Detects fire in real time                                  |
+| [OrderInn](https://github.com/Soham1411/Order-Inn)                                                        | Ecommerce Website(work in progress)                        |
+| [Face detection model](https://github.com/Soham1411/face_reognition_opencv)                               | Face detection model using OpenCV                          |
+| [Face recognization model](https://github.com/Soham1411/face_reognition_opencv)                           | Face recognization model on custom dataset                 |
 
-- ⚡ Fun fact **I am curious**
+## 🌐 Socials:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lone_1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lone_1411" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sohammondal400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sohammondal400" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soham1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soham1411" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lone_1411) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mondal-6815b528b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/LONEBEAST13)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1411&show_icons=true&locale=en&layout=compact" alt="soham1411" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/YOLO-FFB81C?logo=yolo&logoColor=black&style=for-the-badge" height="30" alt="yolo logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge" height="30" alt="matlab logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham1411&show_icons=true&locale=en" alt="soham1411" /></p>
+# 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham1411&" alt="soham1411" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1411&show_icons=true&locale=en&layout=compact&theme=merko" alt="soham1411" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham1411&show_icons=true&locale=en&theme=merko" alt="soham1411" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham1411&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=Soham1411&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Soham1411?theme=dark&font=montserrat&radius=6)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Soham1411&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
