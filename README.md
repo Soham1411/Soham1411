@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-4A90E2?logo=artstation&logoColor=white&style=for-the-badge" height="30" alt="Stable Diffusion logo" />
 </div>
 
 # 📊 GitHub Stats:
