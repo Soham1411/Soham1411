@@ -16,6 +16,7 @@
 | [OrderInn](https://github.com/Soham1411/Order-Inn)                                                        | Ecommerce Website(work in progress)                        |
 | [Face detection model](https://github.com/Soham1411/face_reognition_opencv)                               | Face detection model using OpenCV                          |
 | [Face recognization model](https://github.com/Soham1411/face_reognition_opencv)                           | Face recognization model on custom dataset                 |
+| [Image_Generation Website](https://github.com/Soham1411/Image_Generation)                                 | Genrates image based on given prompt                       |
 
 ## 🌐 Socials:
 
