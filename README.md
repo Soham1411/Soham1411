@@ -214,17 +214,18 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 
 ---
 
+
 <!-- GITHUB STATS -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soham1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham1411&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Statistics"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Soham1411&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Soham1411&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -234,9 +235,11 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <a href="https://github.com/Soham1411">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham1411&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=bf91f3&area=true&hide_border=true" width="100%"/>
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/Soham1411/Soham1411/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Contribution Snake Animation"
+  />
 </p>
 
 ---
