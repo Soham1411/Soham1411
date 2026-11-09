@@ -155,16 +155,16 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 OrderInn</h3>
+<h3 align="center">🛒 Disaster APM</h3>
 
 <p align="center">
-  <a href="https://github.com/Soham1411/Order-Inn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Order-Inn&theme=tokyonight&hide_border=true" width="100%"/>
+  <a href="https://disasterapm-frontend.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=DisasterAPM-Frontend&theme=tokyonight&hide_border=true" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  An e-commerce website project currently under development.
+  A disaster management website used to predict disaster and send and recieve alerts.
 </p>
 
 </td>
@@ -188,16 +188,15 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 Image Generation Website</h3>
+<h3 align="center"> ALERT</h3>
 
 <p align="center">
-  <a href="https://github.com/Soham1411/Image_Generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Image_Generation&theme=tokyonight&hide_border=true" width="100%"/>
+  <a href="https://ai-enabled-emergency-aware-adaptive.vercel.app">
   </a>
 </p>
 
 <p align="center">
-  A website that generates images based on user-provided prompts.
+  An IoT and AI based device which helps in detecting and send emergency response to a location in vehicles for faster actions for accidents.
 </p>
 
 </td>
