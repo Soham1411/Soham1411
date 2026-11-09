@@ -246,10 +246,15 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 
 <!-- GITHUB TROPHIES -->
 
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
+<h2 align="center">🏆 GITHUB ACHIEVEMENTS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soham1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
+  <a href="https://github.com/Soham1411?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Soham1411?tab=stars">
+    <img src="https://img.shields.io/badge/My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
 </p>
 
 ---
