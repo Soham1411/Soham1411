@@ -1,74 +1,352 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<img src="https://widgetbite.com/stats/Soham1411" alt="watching_count" />
 
-<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
-<h2 align="center">I am Soham Mondal. Currently pursuing B.TECH in CSE(AI-ML) at Institute of Engineering and Management .</h2></p>
-
-## 💫 About Me:
-
-### I'm currently working on AI-ML projects.<br>Learning Tensorflow, opencv, pytorch, javascript and a lot more!<br>I love playing cricket and draw during my free time 🙂
-
-## Projects:
-
-| Project Name                                                                                              | Description                                                |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Fire Detection Model](https://github.com/Soham1411/Fire_Detection_Model)                                 | Detects fire in real time                                  |
-| [OrderInn](https://github.com/Soham1411/Order-Inn)                                                        | Ecommerce Website(work in progress)                        |
-| [Face detection model](https://github.com/Soham1411/face_reognition_opencv)                               | Face detection model using OpenCV                          |
-| [Face recognization model](https://github.com/Soham1411/face_reognition_opencv)                           | Face recognization model on custom dataset                 |
-| [Image_Generation Website](https://github.com/Soham1411/Image_Generation)                                 | Genrates image based on given prompt                       |
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lone_1411) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mondal-6815b528b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/LONEBEAST13)
-
-# 💻 Tech Stack:
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SOHAM MONDAL | PROFILE                   -->
+<!--                  NEON CYBERPUNK EDITION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/YOLO-FFB81C?logo=yolo&logoColor=black&style=for-the-badge" height="30" alt="yolo logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge" height="30" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" height="30" alt="C logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-4A90E2?logo=artstation&logoColor=white&style=for-the-badge" height="30" alt="Stable Diffusion logo" />
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=SOHAM%20MONDAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Developer&descSize=18&descAlignY=55" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Soham+Mondal;AI%2FML+Engineering+Student+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Soham1411&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<a href="https://github.com/Soham1411">
+  <img src="https://img.shields.io/badge/GitHub-Soham1411-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/soham-mondal-6815b528b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Soham1411/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
-# 📊 GitHub Stats:
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham1411&show_icons=true&locale=en&layout=compact&theme=merko" alt="soham1411" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham1411&show_icons=true&locale=en&theme=merko" alt="soham1411" /></p>
+<!-- ABOUT ME -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham1411&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">⚡ ABOUT ME</h2>
 
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+<div align="center">
+  <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=Soham1411&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+Hey! I'm **Soham Mondal**, an aspiring AI/ML Engineer and Computer Science undergraduate pursuing a **B.Tech in Computer Science and Engineering (AI & ML)** at the **Institute of Engineering and Management**.
 
-### LeetCode Stats
+I'm passionate about exploring the intersection of technology, intelligence, and creativity.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Soham1411?theme=dark&font=montserrat&radius=6)
+My journey revolves around experimenting with Machine Learning, developing Computer Vision applications, and building projects that transform interesting ideas into practical solutions.
 
-### 🔝 Top Contributed Repo
+I enjoy exploring technologies like Python, OpenCV, PyTorch, TensorFlow, and JavaScript while continuously challenging myself to learn something new.
 
-![](https://github-contributor-stats.vercel.app/api?username=Soham1411&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+When I'm away from the keyboard, you'll probably find me playing cricket or drawing something creative. 🏏🎨
+
+<br clear="right"/>
+
+<div align="center">
+
+**💡 My Philosophy**
+
+*"Stay curious. Keep building. Never stop learning."*
+
+</div>
+
+---
+
+<!-- CURRENT FOCUS -->
+
+<h2 align="center">🚀 WHAT I'M UP TO</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🧠 Exploring**
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+</td>
+<td width="50%">
+
+**⚙️ Building & Learning**
+
+- AI/ML Projects
+- Image Processing
+- Python Development
+- Web Development
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+
+<h2 align="center">🛠️ TECH ARSENAL</h2>
+
+<p align="center">
+  Technologies and tools I work with and explore.
+</p>
+
+<h3 align="center">🧠 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-FFB81C?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-7B61FF?style=for-the-badge&logoColor=white"/>
+</p>
+
+<h3 align="center">💻 Programming & Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,javascript&theme=dark" />
+</p>
+
+<h3 align="center">🔧 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,arduino,matlab,vscode&theme=dark" />
+</p>
+
+---
+
+<!-- PROJECT SHOWCASE -->
+
+<h2 align="center">🔥 FEATURED PROJECTS</h2>
+
+<p align="center">
+  A collection of things I've built while exploring technology and solving problems.
+</p>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 Fire Detection Model</h3>
+
+<p align="center">
+  <a href="https://github.com/Soham1411/Fire_Detection_Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Fire_Detection_Model&theme=tokyonight&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  A computer vision project designed to detect fire in real time.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 OrderInn</h3>
+
+<p align="center">
+  <a href="https://github.com/Soham1411/Order-Inn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Order-Inn&theme=tokyonight&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  An e-commerce website project currently under development.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">👁️ Face Detection & Recognition</h3>
+
+<p align="center">
+  <a href="https://github.com/Soham1411/face_reognition_opencv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=face_reognition_opencv&theme=tokyonight&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  Face detection and custom-dataset face recognition using OpenCV.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Image Generation Website</h3>
+
+<p align="center">
+  <a href="https://github.com/Soham1411/Image_Generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Image_Generation&theme=tokyonight&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  A website that generates images based on user-provided prompts.
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Soham1411?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soham1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham1411&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Soham1411&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <a href="https://github.com/Soham1411">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham1411&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=bf91f3&area=true&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+---
+
+<!-- GITHUB TROPHIES -->
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soham1411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%"/>
+</p>
+
+---
+
+<!-- LEETCODE -->
+
+<h2 align="center">🧩 LEETCODE JOURNEY</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Soham1411?theme=dark&font=Montserrat&ext=heatmap" width="65%" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Soham1411/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+
+<h2 align="center">🐍 WATCH MY CONTRIBUTIONS GET EATEN!</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soham1411/Soham1411/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+</p>
+
+---
+
+<!-- FUN FACT -->
+
+<h2 align="center">🎯 BEYOND THE CODE</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
+
+### A little something about me...
+
+🏏 Cricket enthusiast by passion.
+
+🎨 Drawing enthusiast by creativity.
+
+🤖 AI/ML explorer by curiosity.
+
+💻 Developer by choice.
+
+**I believe creativity doesn't stop at coding!**
+
+</div>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">🌐 LET'S CONNECT!</h2>
+
+<p align="center">
+  I'm always open to connecting with fellow developers, AI/ML enthusiasts, and creative minds.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Soham1411">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/soham-mondal-6815b528b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/LONEBEAST13">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/lone_1411">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Soham1411/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=120&section=footer"/>
+
+### ✨ Thanks for visiting my profile!
+
+**If you find something interesting, don't forget to leave a ⭐**
+
+*Keep Learning • Keep Building • Keep Innovating*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00D4FF&center=true&vCenter=true&width=450&lines=See+you+in+the+next+commit!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Typing Animation"/>
+
+</div>
