@@ -50,7 +50,7 @@ My journey revolves around experimenting with Machine Learning, developing Compu
 
 I enjoy exploring technologies like Python, OpenCV, PyTorch, TensorFlow, and JavaScript while continuously challenging myself to learn something new.
 
-When I'm away from the keyboard, you'll probably find me playing cricket or drawing something creative. 🏏🎨
+When I'm away from the keyboard, you'll probably find me playing cricket, games or drawing something creative. 🏏🎨
 
 <br clear="right"/>
 
@@ -287,7 +287,7 @@ When I'm away from the keyboard, you'll probably find me playing cricket or draw
 
 ### A little something about me...
 
-🏏 Cricket enthusiast by passion.
+🎮 Gaming enthusiast by passion.
 
 🎨 Drawing enthusiast by creativity.
 
