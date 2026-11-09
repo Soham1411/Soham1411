@@ -140,11 +140,10 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔥 Fire Detection Model</h3>
+<h3 align="center">Fire Detection Model</h3>
 
 <p align="center">
   <a href="https://github.com/Soham1411/Fire_Detection_Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=Fire_Detection_Model&theme=tokyonight&hide_border=true" width="100%"/>
   </a>
 </p>
 
@@ -155,11 +154,10 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Disaster APM</h3>
+<h3 align="center">Disaster APM</h3>
 
 <p align="center">
   <a href="https://disasterapm-frontend.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=DisasterAPM-Frontend&theme=tokyonight&hide_border=true" width="100%"/>
   </a>
 </p>
 
@@ -173,11 +171,10 @@ When I'm away from the keyboard, you'll probably find me playing cricket, games 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">👁️ Face Detection & Recognition</h3>
+<h3 align="center">Face Detection & Recognition</h3>
 
 <p align="center">
   <a href="https://github.com/Soham1411/face_reognition_opencv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soham1411&repo=face_reognition_opencv&theme=tokyonight&hide_border=true" width="100%"/>
   </a>
 </p>
 
