@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Soham Mondal&#39;s GitHub Stats, Rank: C+</title>
+        <title id="titleId">Soham Mondal&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 11, Total Commits  (last year) : 31, Total PRs: 6, Total Issues: 1, Contributed to (last year): 3</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 219.32895464543657;
+        stroke-dashoffset: 220.20161927143369;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
+          C
         </text>
       
         </g>
